@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sumil.suthar@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12pqx7SFba4SarUztGbrFFy17oediaiwE/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://)
 
 </div>
 </br>
