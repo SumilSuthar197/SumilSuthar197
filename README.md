@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 See my portfolio at [sumilsuthar.me](sumilsuthar.me)
+- 👨‍💻 See my portfolio at [sumilsuthar.me](http://sumilsuthar.me)
 
 - ✉️️ You can contact me at **sumil.suthar@gmail.com**
 
