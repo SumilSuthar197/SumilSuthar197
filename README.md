@@ -10,6 +10,8 @@
 
 - ✉️️ You can contact me at **sumil.suthar@gmail.com**
 
+- 📄 Know about my experiences [Resume](https://resume.sumilsuthar.me/)
+
 - 🤝 I'm open to collaborating on **interesting projects**
 
 <h3 align="left">Connect with me:</h3>
