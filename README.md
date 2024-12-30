@@ -4,13 +4,13 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <br>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently exploring **Kotlin**
 
-- 👨‍💻 See my portfolio at [sumilsuthar.me](http://sumilsuthar.me)
+- 👨‍💻 See my portfolio at [sumilsuthar.vercel.app](http://sumilsuthar.vercel.app)
 
 - ✉️️ You can contact me at **sumil.suthar@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://resume.sumilsuthar.me/)
+- 📄 Know about my experiences [Resume](https://sumilsuthar197.github.io/cv/)
 
 - 🤝 I'm open to collaborating on **interesting projects**
 
